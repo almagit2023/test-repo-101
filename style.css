@@ -73,3 +73,7 @@ form {
   border: 2px solid;
   padding: 1rem;
 }
+
+input[type="button"] {
+  background-color: blue;
+}
